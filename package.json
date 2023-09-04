@@ -1,0 +1,28 @@
+{
+  "name": "optischedule",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "flowbite": "^1.6.5",
+    "flowbite-react": "^0.4.4",
+    "fs": "^0.0.1-security",
+    "next": "13.3.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "util": "^0.12.5",
+    "xml-js": "^1.6.11",
+    "xml2js": "^0.5.0",
+    "xmldom": "^0.6.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.2"
+  }
+}
